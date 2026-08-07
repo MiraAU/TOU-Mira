@@ -4,8 +4,8 @@
         <Description>Town Of Us Mira</Description>
         <RootNamespace>TownOfUs</RootNamespace>
         <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
-        <Version>$(VersionPrefix)-$(VersionSuffix)</Version>
-        <Configurations>Debug;Release;Publish</Configurations>
+        <Version>1.7.1</Version>
+        <Configurations>Release</Configurations>
     </PropertyGroup>
 
     <ItemGroup>
